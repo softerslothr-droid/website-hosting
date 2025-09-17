@@ -1,1 +1,0 @@
-This isn't a repository meant for people to use, it's just the code to my website
